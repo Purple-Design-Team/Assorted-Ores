@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49b5bc67-5d3b-4d50-8313-0ee79e987b52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/AssortedItemsMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/AssortedItemsModVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/ClientProxyAssortedItemsMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/ElementsAssortedItemsMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/IProxyAssortedItemsMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/ServerProxyAssortedItemsMod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockBerylOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockBerylOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockBronzeOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockBronzeOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockChromiteOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockChromiteOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockChromium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockCondensedoil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockCopperOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockCopperOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockCrudeOil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockDustOfHadesOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockDustOfHadesOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockMagnetiteConcentrate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockMagnetiteOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockMagnetiteOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockMeatChunkOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockMeatChunkOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockPainiteOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockPainiteOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockRubyOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockRubyOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSaltOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSaltOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSapphireOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSapphireOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSilverOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSilverOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSorcerersDustOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSorcerersDustOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSteelOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockSteelOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockThorns.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockTitaniumOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockTitaniumOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockTungstenOre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/block/BlockTungstenOreBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/entity/EntityFlowerWanderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/entity/EntityIcePatroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/entity/EntityOneHundredDownloadsCreature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/fuel/FuelMagnetiteConcentration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/fuel/FuelOil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBarrierArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBarrierAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBarrierHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBarrierPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBarrierShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBarrierSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBerylArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBerylAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBerylGem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBerylHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBerylPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBerylShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBerylSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBronzeArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBronzeAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBronzeHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBronzeIngot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBronzePickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBronzeShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemBronzeSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCatArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCatAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCatHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCatPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCatShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCatSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemChromiteIngot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCopperArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCopperAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCopperHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCopperIngot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCopperPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCopperShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemCopperSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemDustOfHadesArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemDustOfHadesAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemDustOfHadesDust.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemDustOfHadesHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemDustOfHadesPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemDustOfHadesShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemDustOfHadesSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEmeraldArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEmeraldAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEmeraldHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEmeraldPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEmeraldShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEmeraldSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEnderArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEnderAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEnderHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEnderPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEnderShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemEnderSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemIceArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemIcePatrollersGemGem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemMagnetiteDust.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemMeatChunkArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemMeatChunkAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemMeatChunkHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemMeatChunkIngot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemMeatChunkPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemMeatChunkShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemMeatChunkSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemMonsterSlayerSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemOneHundredDownloadsSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemOnehundreddownloadscreatureseye.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemPainiteArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemPainiteAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemPainiteGem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemPainiteHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemPainitePickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemPainiteShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemPainiteSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemRealmOfTheMonsters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemRubyArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemRubyAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemRubyGem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemRubyHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemRubyPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemRubyShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemRubySword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSalt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSaltDust.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSaltedMeat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSapphireArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSapphireAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSapphireGem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSapphireHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSapphirePickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSapphireShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSapphireSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSilverArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSilverAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSilverHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSilverIngot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSilverPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSilverShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSilverSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSorcerersDustArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSorcerersDustAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSorcerersDustDust.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSorcerersDustHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSorcerersDustPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSorcerersDustShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSorcerersDustSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSteelArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSteelAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSteelHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSteelIngot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSteelPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSteelShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemSteelSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTheAxeOfPeace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTitaniumArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTitaniumAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTitaniumHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTitaniumIngot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTitaniumPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTitaniumShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTitaniumSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTungstenArmor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTungstenAxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTungstenHoe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTungstenIngot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTungstenPickaxe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTungstenShovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/ItemTungstenSword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeBerylOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeBronzeOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeChromiteOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeCondensedoilrecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeCopperOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeDustOfHadesOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeMagnetiteOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeMeatChunkOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipePainiteOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeRubyOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeSaltOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeSapphireOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeSilverOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeSorcerersDustOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeSteelOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeTitaniumOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/item/crafting/RecipeTungstenOreSmelting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/procedure/ProcedureThornsEntityCollidesInTheBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/world/WorldRealmOfTheMonsters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/world/biome/BiomeExtremeDesert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/world/biome/BiomeExtremeIceBiome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/world/biome/BiomeFlowerFields.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/world/biome/BiomePlateau.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/world/biome/BiomeSavanna.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/world/biome/BiomeThornsForest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/world/biome/BiomeTundra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/forge/assorteditems/world/biome/BiomeYellowForest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jk6glWAtd0Sty9syWsTyjyVerv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49b5bc67-5d3b-4d50-8313-0ee79e987b52" name="Default Changelist" comment="" />
+      <created>1604335856791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604335856791</updated>
+    </task>
+    <servers />
+  </component>
+</project>
